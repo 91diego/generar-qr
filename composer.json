@@ -1,0 +1,12 @@
+{
+    "name": "dgonzalez/qr-code-composer",
+    "authors": [
+        {
+            "name": "Diego Gonzalez",
+            "email": "diego.gonzalez.glez91@gmail.com"
+        }
+    ],
+    "require": {
+        "simplesoftwareio/simple-qrcode": "^2.0"
+    }
+}
